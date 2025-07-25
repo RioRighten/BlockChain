@@ -1,2 +1,3 @@
 # BlockChain
-A small simulation 
+A small simulation showing how things work.
+
