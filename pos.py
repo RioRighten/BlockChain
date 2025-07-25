@@ -1,3 +1,5 @@
+#The more stake someone has the more likely to be chosen
+
 import random
 
 validators = {

@@ -1,3 +1,5 @@
+#Compete to solve a puzzle and the first to solve wins the right to validate the block
+
 import hashlib
 import time
 

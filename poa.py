@@ -1,3 +1,5 @@
+#Validation is done by trusted validators
+
 validators = ['Alice', 'Bob', 'Charlie']
 
 def select_authority(validators, round_number):
